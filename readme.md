@@ -129,8 +129,14 @@ When you start your bot with or without Sharding, the Dashboard should show some
 
 
 **Have fun! and feel free to contribute/suggest or contact me on my <a href="https://discord.gg/efJyjc2h26">Discord Server</a> or DM me `TGA 3.5#8563`**
-#Error 
-- TokenError: Invalid "code" in request
+# Error
+<details>
+<summary>
+TokenError: Invalid "code" in request
+</summary>
+- Check Your Client Secret and Client id is of correct Bot
+</details>
+
 
 # Bugs, Glitches and Issues
 If you encounter any problems, feel free to <a href="https://github.com/meister03/discord-live-stats/issues">open up an issue</a> in our github repository or <a href="https://discord.gg/efJyjc2h26">join our discord server</a>!
